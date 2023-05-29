@@ -8,5 +8,6 @@
 
 ## Monitora: Suellen Miranda Amorim
 
-Esse repositório contém as soluções para o Pset que foi apresentado para a minha turma de graduação em Ciência da Computação.
-O pset, ou Problems Sets, são desafios de elevada dificuldade que tem como objetivo estimular a habilidade 
+>Esse repositório contém as soluções para um Pset que foi apresentado para a minha turma de graduação em Ciência da Computação.
+O Pset, ou Problems Sets, são desafios de elevada dificuldade que tem como objetivo estimular a capacidade de resolução de problemas dos estudantes e podem ser aplicados a diversas matérias de uma determinada grade curricular.
+
