@@ -15,5 +15,5 @@ O Pset, ou Problems Sets, são desafios de elevada dificuldade que têm como obj
   
   
   
-  [![Diagrama Relacional: Lojas UVV](lojas-uvv.png)
+  ![Diagrama Relacional: Lojas UVV](lojas-uvv.png)
 
