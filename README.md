@@ -1,9 +1,9 @@
 # PSET (Design e Desenvolvimento de Banco de Dados)  
 
-##Aluno: Samuel Barbosa Santos
+## Aluno: Samuel Barbosa Santos
 
-##Turma: cc1mb
+## Turma: cc1mb
 
-##Professor: Abrantes Araújo Silva Filho
+## Professor: Abrantes Araújo Silva Filho
 
-##Monitora: Suellen Miranda Amorim
+## Monitora: Suellen Miranda Amorim
