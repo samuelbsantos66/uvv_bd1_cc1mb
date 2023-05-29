@@ -12,5 +12,8 @@
 O Pset, ou Problems Sets, são desafios de elevada dificuldade que têm como objetivo estimular a capacidade de resolução de problemas dos estudantes e podem ser aplicados a diversas matérias de uma determinada grade curricular.
   Nesse contexto, eu e meus colegas fomos desafiados cada um a implementar, com o SGBD postgresql, um banco de dados, com um esquema e suas respectivas tabelas, partindo do seguinte diagrama relacional:
   
-  [![Diagrama Relacional: Lojas UVV](
+  
+  
+  
+  [![Diagrama Relacional: Lojas UVV](lojas-uvv.png)
 
